@@ -1,0 +1,1 @@
+type CookieSurveyInput<T extends Object> = keyof T;
